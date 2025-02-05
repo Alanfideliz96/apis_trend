@@ -5,6 +5,7 @@ Aqui estão alguns códigos em python que eu utilizei para fazer algumas consult
 🗂️ Estrutura do Projeto
 
 Os scripts estão organizados da seguinte forma:
+
 1. Apex
 
     logs_apex.py: Traz informações das detecções por módulos do Apex.
@@ -19,6 +20,6 @@ Os scripts estão organizados da seguinte forma:
     list_computer.py: Exibe as mesmas informações, mas de todos os hosts do ambiente.
 
 
- Configuração
+⚙️ Configuração
 
     Caso o script precise de credenciais de API, adicione-as em um arquivo .env ou diretamente no código.
