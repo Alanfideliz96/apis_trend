@@ -1,0 +1,9 @@
+# Ignorar arquivos .env
+.env
+.env.*
+configs/*.env
+
+#Ignorar Pastas
+Config/
+venvtest/
+
